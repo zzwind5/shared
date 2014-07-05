@@ -1,4 +1,4 @@
 User1 hacked.
-Hello.
+Hello, user2.
 User2 hacked.
 User2 hacked again.
